@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CppTools.Loader" reportImplicitCastToBool="false" reportNameReferencedOnce="false" version="3" compilerSelect="AUTO" />
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7 (C:/Program Files/Python27/python.exe)" project-jdk-type="Python SDK" />
+  <component name="IdProvider" IDEtalkID="2E83E54020D463F7918B6C7C9A0101FA" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" project-jdk-name="Python 2.7 (C:/Program Files/Python27/python.exe)" project-jdk-type="Python SDK" />
 </project>
 
